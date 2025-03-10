@@ -15,7 +15,7 @@ This project utilize opencv to simulate and visualize current time as a clock.
 
 - <b>Windows 11</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Image of clock:</h2>
 
 <p align="center">
 Launch the clock: <br/>
