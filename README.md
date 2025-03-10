@@ -19,7 +19,7 @@ This project utilize opencv to simulate and visualize current time as a clock.
 
 <p align="center">
 Launch the clock: <br/>
-<img src="https://imgur.com/a/7ttGzpd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://imgur.com/L1ChxBx)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <!--
  ```diff
